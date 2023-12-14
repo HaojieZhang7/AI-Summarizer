@@ -8,7 +8,9 @@ const Hero = () => {
 
         <button
           type="button"
-          onClick={() => window.open("")}
+          onClick={() =>
+            window.open("https://github.com/HaojieZhang7/AI-Summarizer")
+          }
           className="black_btn"
         >
           Github
